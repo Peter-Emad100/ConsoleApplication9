@@ -16,12 +16,13 @@ bool armstrong(long num) {
 	}
 }
 int main() {
-	int num;
+	cout << "i get github" << endl;
+	/*int num;
 	cin >> num;
 	if (armstrong(num)) {
 		cout << num << " is an Armstrong number.";
 	}
 	else {
 		cout << num << " isn't an Armstrong number.";
-	}
+	}*/
 }
