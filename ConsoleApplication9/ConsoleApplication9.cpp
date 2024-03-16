@@ -1,6 +1,10 @@
 #include<iostream>
 #include<cmath>
+#include<algorithm>
 using namespace std;
+void test() {
+	cout << "test" << endl;
+}
 bool armstrong(long num) {
 	long cubes = 0;
 	long clone = num;
