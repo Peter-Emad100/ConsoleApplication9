@@ -4,6 +4,9 @@ using namespace std;
 void test() {
 	cout << "test" << endl;
 }
+void meeting() {
+	cout << "meeting" << endl;
+}
 bool armstrong(long num) {
 	long cubes = 0;
 	long clone = num;
